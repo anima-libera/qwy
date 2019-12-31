@@ -19,4 +19,4 @@ Files in the src/libs directory are not mine.
 
 ## Programming language
 
-This is a C++ project (but I prefer C ><).
+This is a C++ project (but I prefer C (><)).
