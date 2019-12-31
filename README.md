@@ -10,3 +10,8 @@ This was just a test, extremely dirty code ^^'
 ```
 python3 _comp.py
 ```
+
+## Licence ?
+
+I don't know, there are files in there that are not mines and under some libre licences.
+Files with no licence are mine, and you may consider them under the WTFPL licence.
