@@ -3,7 +3,7 @@
 
 Controls: ZQSD, A, Left-Click
 
-This was just a test ^^
+This was just a test, extremely dirty code ^^'
 
 ## Compile ?
 
